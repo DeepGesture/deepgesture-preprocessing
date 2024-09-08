@@ -1,2 +1,3 @@
-# deepgesture-preprocessing
+# DeepGesture Preprocessing
+
 DeepGesture preprocessing
