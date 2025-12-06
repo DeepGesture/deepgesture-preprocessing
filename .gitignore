@@ -17,3 +17,7 @@ align/**/**.txt
 align/**/*.csv
 align/**/*.wav
 align/**/*.lab
+
+
+models--facebook--data2vec-audio-base-960h/
+data2vec-text-base/
